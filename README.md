@@ -25,7 +25,7 @@
     <p><strong>Programming languages:</strong> Java, Python, Javascript, C, Julia</p>
     <p><strong>Frameworks:</strong> ReactJS, NodeJS, Django</p>
     <p><strong>Database management:</strong> MySQL</p>
-    <p><strong>Other:</strong> AWS, terraform, tensorflow</p>
+    <p><strong>Other:</strong> AWS, Terraform, Tensorflow</p>
     </div>
 </div>
 
