@@ -15,17 +15,17 @@
     </div>
     <hr class="solid">
     <div align="right">
-        <p>Designer</p>
-        <p>Developer</p>
-        <p>Neurotechnologist</p>
+        <h3>Designer</h3>
+        <h3>Developer</h3>
+        <h3>Neurotechnologist</h3>
     </div>
     <br />
     <div align="left">
     <p>Computer Science Student @ the University of Alberta</p>
-    <p>Programming languages: Java, Python, Javascript, C, Julia</p>
-    <p>Frameworks: ReactJS, NodeJS, Django</p>
-    <p>Database management: MySQL</p>
-    <p>Other: AWS, terraform, tensorflow</p>
+    <p><strong>Programming languages:</strong> Java, Python, Javascript, C, Julia</p>
+    <p><strong>Frameworks:</strong> ReactJS, NodeJS, Django</p>
+    <p><strong>Database management:</strong> MySQL</p>
+    <p><strong>Other:</strong> AWS, terraform, tensorflow</p>
     </div>
 </div>
 
