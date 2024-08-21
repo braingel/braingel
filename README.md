@@ -22,7 +22,7 @@
     <br />
     <div align="left">
     <p>Computer Science Student @ the University of Alberta</p>
-    <p><strong>Programming languages:</strong> Java, Python, Javascript, C, Julia</p>
+    <p><strong>Programming languages:</strong> Java, Python, Javascript, C/C++, Julia</p>
     <p><strong>Frameworks:</strong> ReactJS, NodeJS, Django</p>
     <p><strong>Database management:</strong> MySQL</p>
     <p><strong>Other:</strong> AWS, Terraform, Tensorflow</p>
